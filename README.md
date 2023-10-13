@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **Coding is an art that should be practised not studied.**
 
+  [![An image of @harshalhonde21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshalhonde21)](https://holopin.io/@harshalhonde21)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshalhonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshalhonde" height="30" width="40" /></a>
