@@ -4,7 +4,10 @@
 <h1>Profile View</h1>
 ![Profile View](https://komarev.com/ghpvc/?username=harshalhonde21&color=orange&abbreviated=true)
 
-<img src="https://github.com/harshalhonde21/harshalhonde21/assets/105191619/38464896-bbf3-402c-aedc-8637a0bdd1f9" alt="imageharshal" width="300" height="200">
+<div style="text-align:center;">
+  <img src="https://github.com/harshalhonde21/harshalhonde21/assets/105191619/38464896-bbf3-402c-aedc-8637a0bdd1f9" alt="imageharshal" width="300" height="200">
+</div>
+
 
 
 - 🔭 I’m currently working on [Ecommerce site](https://spectastyle.vercel.app)
