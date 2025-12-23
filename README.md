@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋, I'm Harshal Prabhakar Honde</h1>
-<h3 align="left">I'm a B.Tech 2025 graduate in Computer Science Engineering with a minor in AIML from S.B. Jain Institute of Technology, Management and Research. I am currently working as a Junior Software Engineer at Leadows Technologies Pvt Ltd. As a 4x hackathon winner, I've developed a strong foundation as a Full Stack Developer, proficient in both the MERN stack and Java with Spring Boot.</h3>
-<h3 align="left">I have experience working with government clients on electric power plant-based projects for MAHAGENCO and have also served as a freelance and sole intern for clients in Dubai and Qatar. In the past, I've been the sole intern at two different startups, gaining valuable, hands-on experience in dynamic environments.</h3>
+
+<h3 align="left">
+Software Engineer at Leadows Technologies Pvt. Ltd. <br/>
+Full-Stack Developer (MERN) with strong backend focus
+</h3>
+
+<p align="left">
+I am a B.Tech graduate in Computer Science Engineering from S.B. Jain Institute of Technology, Management and Research.
+Currently working as a Software Engineer at Leadows Technologies, where I build scalable, production-grade systems using
+MERN and Java (Spring Boot).
+</p>
+
+<p align="left">
+I have worked on large, real-world systems including government electric power plant projects for MAHAGENCO, and
+delivered solutions for clients in Dubai and Qatar. I thrive in startup environments, take ownership end-to-end,
+and focus on clean architecture, performance, and maintainability.
+</p>
 
 [![Profile Hits](https://hits.sh/github.com/harshalhonde21.svg)](https://hits.sh/github.com/harshalhonde21/)
 
-- 🔭 I’m currently working on a big microservices project that's shipping soon.
-- ⚡ **Fun fact**: Coding is an art that should be practiced, not just studied.
-- 🌱 I’m currently learning **AWS and Rust**.
-- 👨‍💻 All of my projects are available at [harshalwebfolio.netlify.app](https://harshalwebfolio.netlify.app)
-- 💬 Ask me about **MERN stack and web development**.
-- 📫 How to reach me: **harshalhonde17@gmail.com**
+- 🔭 Currently working on a **microservices-based production system**
+- 🌱 Learning **AWS and Rust**
+- 👨‍💻 Projects: [harshalwebfolio.netlify.app](https://harshalwebfolio.netlify.app)
+- 💬 Ask me about **backend systems, MERN, Spring Boot**
+- 📫 Reach me at **harshalhonde17@gmail.com**
 
-<h3 align="left">My Digital Badges</h3>
-
-[![An image of @harshalhonde21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshalhonde21)](https://holopin.io/@harshalhonde21)
 
 ---
 
