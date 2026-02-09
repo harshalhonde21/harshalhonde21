@@ -21,7 +21,7 @@ and focus on clean architecture, performance, and maintainability.
 
 - 🔭 Currently working on a **microservices-based production system**
 - 🌱 Learning **AWS and Rust**
-- 👨‍💻 Projects: [harshalwebfolio.netlify.app](https://harshalwebfolio.netlify.app)
+- 👨‍💻 Projects: [harshalhonde.com](https://www.harshalhonde.com)
 - 💬 Ask me about **backend systems, MERN, Spring Boot**
 - 📫 Reach me at **harshalhonde17@gmail.com**
 
